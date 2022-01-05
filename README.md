@@ -18,3 +18,10 @@ $ pip3 install -r requiremets.txt
 ### 1. With one url option
 ![image](https://user-images.githubusercontent.com/55146805/148257475-f83f3417-6ddf-40f0-8241-dd76e4ea8e92.png)
 
+### 2. With url2 and compare
+![image](https://user-images.githubusercontent.com/55146805/148257975-1ef3b89d-5b4e-4cb5-8b23-a577402a584c.png)
+
+#### Result of comparison
+![image](https://user-images.githubusercontent.com/55146805/148258148-eb843b8b-40aa-4a59-93cb-af4096a107b6.png)
+
+
