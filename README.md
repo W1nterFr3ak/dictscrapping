@@ -8,8 +8,8 @@ Webscrap is a script that scrapes a webpage and gets the word count of unique wo
 ```
 $ git clone https://github.com/W1nterFr3ak/dictscrapping
 $ cd dictscrapping
-$ chmod +x webscrap.py
 $ pip3 install -r requiremets.txt
+$ chmod +x webscrap.py
 ```
 ### options
 ![image](https://user-images.githubusercontent.com/55146805/148257131-2175eca6-e65f-48fa-8e98-9d1caeb0072f.png)
