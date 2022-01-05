@@ -15,3 +15,5 @@ $ pip3 install -r requiremets.txt
 ![image](https://user-images.githubusercontent.com/55146805/148257131-2175eca6-e65f-48fa-8e98-9d1caeb0072f.png)
 
 ## Run
+![image](https://user-images.githubusercontent.com/55146805/148257475-f83f3417-6ddf-40f0-8241-dd76e4ea8e92.png)
+
